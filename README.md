@@ -6,7 +6,7 @@
 
 * [Pull request](https://github.com/En-ZUH/server-deployment-practice/pulls)
 * [Github Actions](https://github.com/En-ZUH/server-deployment-practice/actions)
-* [Deployed App to Heroku](https://dashboard.heroku.com/apps/enas-server-deploy-prod)
+* [Deployed App to Heroku](https://enas-server-deploy-dev.herokuapp.com/)
 
 ## Setup
 

@@ -18,11 +18,11 @@ const errorHandler = require('./error-handlers/500');
 
 
 app.get('/', (req, res) => {
-	res.send('Hello from server 3000');
+	res.send('Welcome to my web page');
 });
 
 app.get('/bad', (req, res) => {
-	throw new Error('Error B');
+	throw new Error('something wrong');
 });
 
 app.use('*', notFoundHandler);

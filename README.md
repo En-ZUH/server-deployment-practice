@@ -7,7 +7,7 @@
 * [Pull request](https://github.com/En-ZUH/server-deployment-practice/pulls)
 * [Github Actions](https://github.com/En-ZUH/server-deployment-practice/actions)
 * [Deployed App to Heroku /branch](https://enas-server-deploy-dev.herokuapp.com/)
-[Deployed App to Heroku /production](https://enas10-server-deploy-prod.herokuapp.com/)
+* [Deployed App to Heroku /production](https://enas10-server-deploy-prod.herokuapp.com/)
 
 ## Setup
 
@@ -32,11 +32,11 @@
 
       * /bad
 
-         Return "something wrong"
+       Return "something wrong"
 
       * '*'
-      
-         Return  "Page Not Found"
+
+       Return  "Page Not Found"
 
 ## Testing
 
@@ -44,5 +44,6 @@
 
 * run the command( npm test)
 
-## Uml Diagram 
+## Uml Diagram
+
 ![img](uml.jpg)
